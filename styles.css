@@ -1,0 +1,10 @@
+#titel {
+    border: 2px blue solid;
+    padding: 20px;
+    margin: 10px;
+}
+
+body {
+    flex-direction: column;
+    display: flex;
+}
